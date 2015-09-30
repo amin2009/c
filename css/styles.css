@@ -221,3 +221,44 @@ li>a.tappable-active {
     -webkit-transition-duration: .375s;
     -o-transition-duration: .375s;
 }
+
+
+
+/****************************************/
+/****************************************/
+/****************************************/
+/****************************************/
+
+.search-bar {
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 9px;
+    padding-top: 11px;
+    margin-bottom: 9px;
+    border-bottom: solid 1px #666;
+    height: 38px;
+}
+.scroll {
+    top: 90px;
+}
+.scroll {
+    bottom: 50px;
+}
+
+.footer {
+    background: #666;
+    margin: 0;
+    bottom: 0;
+    position: absolute;
+    width: 100%;
+    border-bottom: solid 1px #666;
+    height: 38px;
+}
+
+.footer .inner {
+    padding-left: 20px;
+    padding-top: 11px;
+    padding-right: 20px;
+    padding-top: 9px;
+}
+
